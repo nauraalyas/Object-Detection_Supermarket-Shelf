@@ -160,6 +160,6 @@ This project has several limitations:
 
 ## Author
 
-**Naura Alya Salsabila**
-Statistics Undergraduate Student
+**Naura Alya Salsabila**  
+Statistics Undergraduate Student  
 Universitas Indonesia
